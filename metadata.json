@@ -1,0 +1,6 @@
+{
+  "name": "Planner Pro",
+  "description": "Planner Pro - Last-Minute Life Saver: An AI-powered productivity companion that acts as a proactive personal assistant to intelligently schedule, prioritize, and rescue your commitments in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
